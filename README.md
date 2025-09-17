@@ -10,4 +10,4 @@ A PHP library for encryption/decryption using the Vigenere2D algorithm with secu
 ## Installation
 
 ```bash
-composer require hacknow/criptlog# CriptoLog
+composer require hacknow/criptlog # CriptoLog
